@@ -1,3 +1,5 @@
-# newbie-4-python
+# testRepo
 
-##editing the file now 
+## editing the file now 
+
+Editing the file in the new repository 
